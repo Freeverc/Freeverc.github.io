@@ -11,16 +11,16 @@
 </head>
 <body>
 <div class = "container page-header">
-    <h1>My Blogs</h1>
+    <h1>我的个人博客</h1>
 </div>
 <div class = "container page-body">
     <div class="col-md-9" role="main">
         <div class="body-main">
-            <h2>Articles</h2></a>
+            <h2><a href="/detection/upload/0">技术文档</h2></a>
             <p>
 		Maybe something useful.
             </p>
-            <h2>Essays</h2></a>
+            <h2><a href="/detection/upload/1">随笔感想</h2></a>
             <p> 
 		Maybe something boring.
             </p>
@@ -29,7 +29,7 @@
     </div>
     <div class="col-md-3" role="complementary">
         <div>
-            <h2>Recent Articles</h2>
+            <h2>最近作品</h2>
             <h4><a href="#">2019.12.5: Nothing</a></h4>
             <h4><a href="#">2019.12.3: Nothing</a></h4>
             <h4><a href="#">2019.12.1: Nothing</a></h4>
